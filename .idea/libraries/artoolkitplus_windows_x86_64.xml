@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="artoolkitplus-windows-x86_64">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/artoolkitplus-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/artoolkitplus.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/ffmpeg-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/ffmpeg.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/flandmark-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/flandmark.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/flycapture-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/flycapture.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/javacpp-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/javacpp.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/javacv-platform.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/javacv.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/leptonica-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/leptonica.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/libdc1394-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/libdc1394.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/libfreenect-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/libfreenect.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/libfreenect2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/librealsense-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/librealsense.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/librealsense2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/openblas-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/openblas.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/opencv-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/opencv.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/tesseract-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/tesseract.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/videoinput-platform.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/videoinput-windows-x86.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/videoinput-windows-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-platform-1.5.6-bin/videoinput.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
